@@ -13,6 +13,7 @@ git clone https://github.com/crilleaz/TFS1.3-Chat-to-Discord/
 ```
 Move content of chatchannels/scripts into your TFS1.3-server, replace existing ones
 Import chats.sql into your database
+Edit database details in dc_offload_chats.php
 
 Add cronjob for the webhook:
 $sudo crontab -e
