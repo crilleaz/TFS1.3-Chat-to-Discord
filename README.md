@@ -1,5 +1,5 @@
 # TFS1.3-Chat-to-Discord
-Transfer chats via game to Discord
+Transfer chats via game to Discord<br>
 ![image](https://github.com/crilleaz/TFS1.3-Chat-to-Discord/assets/20803604/ae83b47c-632e-4f27-a035-8013bd6f1fad)
 
 ### Installation
