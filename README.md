@@ -21,4 +21,4 @@ $sudo crontab -e
 ```
 
 ### Discord
-Crille#6623
+Crilleaz
